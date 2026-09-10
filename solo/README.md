@@ -9,4 +9,4 @@ release goes up, with the release tag and a one-line summary.
 
 | Version | Release tag  | Notes |
 |---------|--------------|-------|
-| —       | —            | Not published yet |
+| 2.0.0   | `TechDesk`   | Windows installer only so far — macOS/Linux still pending upload |
