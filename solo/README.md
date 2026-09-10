@@ -7,6 +7,7 @@ publish a new version).
 This file is just a changelog/index — update it by hand each time a new Solo
 release goes up, with the release tag and a one-line summary.
 
-| Version | Release tag  | Notes |
-|---------|--------------|-------|
-| 2.0.0   | `TechDesk`   | Windows installer only so far — macOS/Linux still pending upload |
+| Version | Release tag     | Notes |
+|---------|-----------------|-------|
+| 2.0.0   | `TechDesk`      | Windows installer |
+| 2.0.0   | `TechDesklinux` | Linux AppImage — macOS and .deb/.rpm still pending upload |

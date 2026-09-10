@@ -38,7 +38,7 @@ text files — changelogs, checksums — not the installers themselves.
 
 | Edition        | Latest version | Status         |
 |----------------|-----------------|----------------|
-| Solo           | 2.0.0           | Windows live on the site; macOS/Linux still pending upload |
+| Solo           | 2.0.0           | Windows + Linux AppImage live on the site; macOS and .deb/.rpm still pending upload |
 | Business       | —               | Not released yet |
 | Enterprise     | —               | Not released yet |
 
